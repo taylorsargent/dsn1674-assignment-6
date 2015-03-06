@@ -1,0 +1,33 @@
+.bluebox-1 {
+  background-color: #2c3950;
+  width: 100%;
+  overflow: hidden;
+}
+
+.bluebox-2 {
+  background-color: #1a2230;
+  width: 100%;
+  text-align: center;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+h1 {
+  color: white;
+  font-family: 'Contrail One', cursive;
+}
+
+.body {
+  width: 75%;
+  right: 50%;
+  margin-bottom: 0;
+  margin-left: 3em;
+}
+
+.head-1 {
+  width: 40%;
+}
+
+.head-2 {
+  width: 40%;
+}
